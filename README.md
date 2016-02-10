@@ -16,6 +16,7 @@ Test Sentences
 [Spoken](http://www.voiptroubleshooter.com/open_speech/american.html)
 
 [Written](http://www.cs.columbia.edu/hgs/audio/harvard.html)
+
 [Written (Fixed)](http://www.cs.columbia.edu/~hgs/audio/harvard.html)
 
 [About Harvard Sentences](https://en.wikipedia.org/wiki/Harvard_sentences)
