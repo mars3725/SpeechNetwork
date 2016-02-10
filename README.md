@@ -3,20 +3,24 @@ Digital signal processing using a neural network
 
 Useful Links
 ------------
-http://sourceforge.net/projects/wavesurfer/
+[Phonemes Spoken](https://www.youtube.com/watch?v=xiqUVnXExTQ)
 
-https://www.youtube.com/watch?v=xiqUVnXExTQ
-
-http://www.fon.hum.uva.nl/praat/
-
-http://swphonetics.com/praat/tutorials/understanding-waveforms/speech-waveforms/
+[Waveforms](http://swphonetics.com/praat/tutorials/understanding-waveforms/speech-waveforms/)
 
 [Formants](https://en.wikipedia.org/wiki/Formant#Formants_and_phonetics)
 
+[Spectral Graphs](http://clas.mq.edu.au/speech/acoustics/frequency/spectral.html)
+
 Test Sentences
 --------------
-[spoken](http://www.voiptroubleshooter.com/open_speech/american.html)
+[Spoken](http://www.voiptroubleshooter.com/open_speech/american.html)
 
-[written](http://www.cs.columbia.edu/hgs/audio/harvard.html)
+[Written](http://www.cs.columbia.edu/hgs/audio/harvard.html)
 
-[explination](https://en.wikipedia.org/wiki/Harvard_sentences)
+[About Harvard Sentences](https://en.wikipedia.org/wiki/Harvard_sentences)
+
+Software
+--------
+[Wavesurfer](http://sourceforge.net/projects/wavesurfer/)
+
+[Pratt](http://www.fon.hum.uva.nl/praat/)
